@@ -1,11 +1,13 @@
 body {
-	font-family :Trebuchet MS;
+	font-family: Trebuchet MS;
+	margin: 10px 20px 10px 20px;
 }
 
 h1 {
 	border-style: solid;
-	border-color: green;
+	border-color: #008000;
 	text-align: center;
+	background-color: #BBBBBB;
 }
 
 s.hidden {
